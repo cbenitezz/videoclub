@@ -1,0 +1,5 @@
+ <script type="text/javascript" src="{{ asset('scripts/datatables_movies.js') }}"></script>
+    <script type="text/javascript" src="{{ asset('scripts/add_movies.js') }}"></script>
+    <script type="text/javascript" src="{{ asset('scripts/modal_update_movies.js') }}"></script>
+    <script type="text/javascript" src="{{ asset('scripts/delete_movies.js') }}"></script>
+    <script type="text/javascript" src="{{ asset('scripts/update_movies.js') }}"></script>
